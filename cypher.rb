@@ -1,5 +1,5 @@
 require 'sinatra'
-require 'sinatra/reloader' if development?
+
 
 
 #puts "Secrets! Put in a message and I'll encode it for you."
