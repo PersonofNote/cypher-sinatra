@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'sinatra' 
-gem 'bootstrap'
+gem 'sinatra'
 
 ruby '2.3.3'
